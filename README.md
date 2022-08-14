@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xisurthros</h1>
-<h3 align="center">Aspiring data scientist</h3>
+<h3 align="center">I just make stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xisurthros&label=Profile%20views&color=0e75b6&style=flat" alt="xisurthros" /> </p>
 
