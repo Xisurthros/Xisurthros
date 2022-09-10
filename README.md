@@ -15,4 +15,4 @@
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=xisurthros&theme=onedark" alt="xisurthros" /></p>
 
 <h3 align="center">Support:</h3>
-<p align="center" ><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/jacobhobbs"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/jacobhobbs" /></a><a href="https://ko-fi.com/https://ko-fi.com/jacobhobbs"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/jacobhobbs" /></a></p>
+<p align="center" ><a href="https://www.buymeacoffee.com/jacobhobbs"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/jacobhobbs" /></a><a href="https://ko-fi.com/jacobhobbs"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/jacobhobbs" /></a></p>
